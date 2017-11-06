@@ -1,0 +1,25 @@
+{
+	"files": {
+		"textures": [
+			"button-underline.png"
+		],
+		"sounds": [
+
+		],
+		"music": [
+			//"shady dave - feelings of twilight.ogg"
+		],
+		"atlases": [
+			
+		],
+		"fonts": [
+			"cg-24.fnt",
+			"cg-32.fnt",
+			"cg-36.fnt",
+			"cg-72.fnt"
+		],
+		"shaders": [
+			
+		]
+	}
+}

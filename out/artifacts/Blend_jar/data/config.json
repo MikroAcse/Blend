@@ -1,0 +1,68 @@
+{
+	"animationFps": 30,
+	"scenes": {
+		"global": {
+			"fonts": {
+				"corner-button-big": "cg-72" ,
+				"corner-button-small": "cg-24",
+				"text-button": "cg-36"
+			}
+		}
+		"loading": {
+			"fonts": {
+				"loading-text": "cg-36"
+			}
+		},
+		"choosePack": {
+			"fonts": {
+				"levelpack-title": "cg-36",
+				"levelpack-number": "cg-72",
+				"title": "cg-36"
+			}
+		},
+		"chooseLevel": {
+			"fonts": {
+				"level-circle": "cg-36",
+				"title": "cg-36"
+			}
+		},
+		"level": {
+			"field": {
+				"colors": {
+					"magenta": {
+						"default": "0xEA0C7A",
+						"pale": "0x864364"
+					},
+					"green": {
+						"default": "0x14F114",
+						"pale": "0x6FB16F"
+					},
+					"orange": {
+						"default": "0xEE5710",
+						"pale": "0x9E705B"
+					},
+					"blue": {
+						"default": "0x11A8EF",
+						"pale": "0x618EA3"
+					},
+					"cyan": {
+						"default": "0x17F5F5",
+						"pale": "0x84C6C6"
+					},
+					"yellow": {
+						"default": "0xF9E01B",
+						"pale": "0xDDD59A"
+					}
+				},
+				"blocker": {
+					"color": "2C2C2C"
+				}
+			},
+			"fonts": {
+				"moves-left": "cg-36",
+				"matching-block": "cg-36",
+				"paused": "cg-36"
+			}
+		}
+	}
+}

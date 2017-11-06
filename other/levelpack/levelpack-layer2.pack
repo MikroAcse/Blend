@@ -1,0 +1,855 @@
+
+levelpack-layer2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+levelpack-layer2
+  rotate: false
+  xy: 1, 1
+  size: 388, 598
+  orig: 388, 598
+  offset: 0, 0
+  index: 1
+levelpack-layer2
+  rotate: false
+  xy: 1, 1
+  size: 388, 598
+  orig: 388, 598
+  offset: 0, 0
+  index: 90
+levelpack-layer2
+  rotate: false
+  xy: 391, 1
+  size: 388, 598
+  orig: 388, 598
+  offset: 0, 0
+  index: 2
+
+levelpack-layer22.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+levelpack-layer2
+  rotate: false
+  xy: 1, 1
+  size: 388, 598
+  orig: 388, 598
+  offset: 0, 0
+  index: 3
+levelpack-layer2
+  rotate: false
+  xy: 391, 1
+  size: 388, 598
+  orig: 388, 598
+  offset: 0, 0
+  index: 4
+
+levelpack-layer23.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+levelpack-layer2
+  rotate: false
+  xy: 1, 1
+  size: 388, 598
+  orig: 388, 598
+  offset: 0, 0
+  index: 5
+levelpack-layer2
+  rotate: false
+  xy: 391, 1
+  size: 388, 598
+  orig: 388, 598
+  offset: 0, 0
+  index: 6
+
+levelpack-layer24.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+levelpack-layer2
+  rotate: false
+  xy: 1, 1
+  size: 388, 598
+  orig: 388, 598
+  offset: 0, 0
+  index: 7
+levelpack-layer2
+  rotate: false
+  xy: 391, 1
+  size: 388, 598
+  orig: 388, 598
+  offset: 0, 0
+  index: 8
+
+levelpack-layer25.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+levelpack-layer2
+  rotate: false
+  xy: 1, 1
+  size: 388, 598
+  orig: 388, 598
+  offset: 0, 0
+  index: 9
+levelpack-layer2
+  rotate: false
+  xy: 391, 1
+  size: 388, 598
+  orig: 388, 598
+  offset: 0, 0
+  index: 10
+
+levelpack-layer26.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+levelpack-layer2
+  rotate: false
+  xy: 1, 1
+  size: 388, 598
+  orig: 388, 598
+  offset: 0, 0
+  index: 11
+levelpack-layer2
+  rotate: false
+  xy: 391, 1
+  size: 388, 598
+  orig: 388, 598
+  offset: 0, 0
+  index: 12
+
+levelpack-layer27.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+levelpack-layer2
+  rotate: false
+  xy: 1, 1
+  size: 388, 598
+  orig: 388, 598
+  offset: 0, 0
+  index: 13
+levelpack-layer2
+  rotate: false
+  xy: 391, 1
+  size: 388, 598
+  orig: 388, 598
+  offset: 0, 0
+  index: 14
+
+levelpack-layer28.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+levelpack-layer2
+  rotate: false
+  xy: 1, 1
+  size: 388, 598
+  orig: 388, 598
+  offset: 0, 0
+  index: 15
+levelpack-layer2
+  rotate: false
+  xy: 391, 1
+  size: 388, 598
+  orig: 388, 598
+  offset: 0, 0
+  index: 16
+
+levelpack-layer29.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+levelpack-layer2
+  rotate: false
+  xy: 1, 1
+  size: 388, 598
+  orig: 388, 598
+  offset: 0, 0
+  index: 17
+levelpack-layer2
+  rotate: false
+  xy: 391, 1
+  size: 388, 598
+  orig: 388, 598
+  offset: 0, 0
+  index: 18
+
+levelpack-layer210.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+levelpack-layer2
+  rotate: false
+  xy: 1, 1
+  size: 388, 598
+  orig: 388, 598
+  offset: 0, 0
+  index: 19
+levelpack-layer2
+  rotate: false
+  xy: 391, 1
+  size: 388, 598
+  orig: 388, 598
+  offset: 0, 0
+  index: 20
+
+levelpack-layer211.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+levelpack-layer2
+  rotate: false
+  xy: 1, 1
+  size: 388, 598
+  orig: 388, 598
+  offset: 0, 0
+  index: 21
+levelpack-layer2
+  rotate: false
+  xy: 391, 1
+  size: 388, 598
+  orig: 388, 598
+  offset: 0, 0
+  index: 22
+
+levelpack-layer212.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+levelpack-layer2
+  rotate: false
+  xy: 1, 1
+  size: 388, 598
+  orig: 388, 598
+  offset: 0, 0
+  index: 23
+levelpack-layer2
+  rotate: false
+  xy: 391, 1
+  size: 388, 598
+  orig: 388, 598
+  offset: 0, 0
+  index: 24
+
+levelpack-layer213.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+levelpack-layer2
+  rotate: false
+  xy: 1, 1
+  size: 388, 598
+  orig: 388, 598
+  offset: 0, 0
+  index: 25
+levelpack-layer2
+  rotate: false
+  xy: 391, 1
+  size: 388, 598
+  orig: 388, 598
+  offset: 0, 0
+  index: 26
+
+levelpack-layer214.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+levelpack-layer2
+  rotate: false
+  xy: 1, 1
+  size: 388, 598
+  orig: 388, 598
+  offset: 0, 0
+  index: 27
+levelpack-layer2
+  rotate: false
+  xy: 391, 1
+  size: 388, 598
+  orig: 388, 598
+  offset: 0, 0
+  index: 28
+
+levelpack-layer215.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+levelpack-layer2
+  rotate: false
+  xy: 1, 1
+  size: 388, 598
+  orig: 388, 598
+  offset: 0, 0
+  index: 29
+levelpack-layer2
+  rotate: false
+  xy: 391, 1
+  size: 388, 598
+  orig: 388, 598
+  offset: 0, 0
+  index: 30
+
+levelpack-layer216.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+levelpack-layer2
+  rotate: false
+  xy: 1, 1
+  size: 388, 598
+  orig: 388, 598
+  offset: 0, 0
+  index: 31
+levelpack-layer2
+  rotate: false
+  xy: 391, 1
+  size: 388, 598
+  orig: 388, 598
+  offset: 0, 0
+  index: 32
+
+levelpack-layer217.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+levelpack-layer2
+  rotate: false
+  xy: 1, 1
+  size: 388, 598
+  orig: 388, 598
+  offset: 0, 0
+  index: 33
+levelpack-layer2
+  rotate: false
+  xy: 391, 1
+  size: 388, 598
+  orig: 388, 598
+  offset: 0, 0
+  index: 34
+
+levelpack-layer218.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+levelpack-layer2
+  rotate: false
+  xy: 1, 1
+  size: 388, 598
+  orig: 388, 598
+  offset: 0, 0
+  index: 35
+levelpack-layer2
+  rotate: false
+  xy: 391, 1
+  size: 388, 598
+  orig: 388, 598
+  offset: 0, 0
+  index: 36
+
+levelpack-layer219.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+levelpack-layer2
+  rotate: false
+  xy: 1, 1
+  size: 388, 598
+  orig: 388, 598
+  offset: 0, 0
+  index: 37
+levelpack-layer2
+  rotate: false
+  xy: 391, 1
+  size: 388, 598
+  orig: 388, 598
+  offset: 0, 0
+  index: 38
+
+levelpack-layer220.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+levelpack-layer2
+  rotate: false
+  xy: 1, 1
+  size: 388, 598
+  orig: 388, 598
+  offset: 0, 0
+  index: 39
+levelpack-layer2
+  rotate: false
+  xy: 391, 1
+  size: 388, 598
+  orig: 388, 598
+  offset: 0, 0
+  index: 40
+
+levelpack-layer221.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+levelpack-layer2
+  rotate: false
+  xy: 1, 1
+  size: 388, 598
+  orig: 388, 598
+  offset: 0, 0
+  index: 41
+levelpack-layer2
+  rotate: false
+  xy: 391, 1
+  size: 388, 598
+  orig: 388, 598
+  offset: 0, 0
+  index: 42
+
+levelpack-layer222.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+levelpack-layer2
+  rotate: false
+  xy: 1, 1
+  size: 388, 598
+  orig: 388, 598
+  offset: 0, 0
+  index: 43
+levelpack-layer2
+  rotate: false
+  xy: 391, 1
+  size: 388, 598
+  orig: 388, 598
+  offset: 0, 0
+  index: 44
+
+levelpack-layer223.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+levelpack-layer2
+  rotate: false
+  xy: 1, 1
+  size: 388, 598
+  orig: 388, 598
+  offset: 0, 0
+  index: 45
+levelpack-layer2
+  rotate: false
+  xy: 391, 1
+  size: 388, 598
+  orig: 388, 598
+  offset: 0, 0
+  index: 46
+
+levelpack-layer224.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+levelpack-layer2
+  rotate: false
+  xy: 1, 1
+  size: 388, 598
+  orig: 388, 598
+  offset: 0, 0
+  index: 47
+levelpack-layer2
+  rotate: false
+  xy: 391, 1
+  size: 388, 598
+  orig: 388, 598
+  offset: 0, 0
+  index: 48
+
+levelpack-layer225.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+levelpack-layer2
+  rotate: false
+  xy: 1, 1
+  size: 388, 598
+  orig: 388, 598
+  offset: 0, 0
+  index: 49
+levelpack-layer2
+  rotate: false
+  xy: 391, 1
+  size: 388, 598
+  orig: 388, 598
+  offset: 0, 0
+  index: 50
+
+levelpack-layer226.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+levelpack-layer2
+  rotate: false
+  xy: 1, 1
+  size: 388, 598
+  orig: 388, 598
+  offset: 0, 0
+  index: 51
+levelpack-layer2
+  rotate: false
+  xy: 391, 1
+  size: 388, 598
+  orig: 388, 598
+  offset: 0, 0
+  index: 52
+
+levelpack-layer227.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+levelpack-layer2
+  rotate: false
+  xy: 1, 1
+  size: 388, 598
+  orig: 388, 598
+  offset: 0, 0
+  index: 53
+levelpack-layer2
+  rotate: false
+  xy: 391, 1
+  size: 388, 598
+  orig: 388, 598
+  offset: 0, 0
+  index: 54
+
+levelpack-layer228.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+levelpack-layer2
+  rotate: false
+  xy: 1, 1
+  size: 388, 598
+  orig: 388, 598
+  offset: 0, 0
+  index: 55
+levelpack-layer2
+  rotate: false
+  xy: 391, 1
+  size: 388, 598
+  orig: 388, 598
+  offset: 0, 0
+  index: 56
+
+levelpack-layer229.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+levelpack-layer2
+  rotate: false
+  xy: 1, 1
+  size: 388, 598
+  orig: 388, 598
+  offset: 0, 0
+  index: 57
+levelpack-layer2
+  rotate: false
+  xy: 391, 1
+  size: 388, 598
+  orig: 388, 598
+  offset: 0, 0
+  index: 58
+
+levelpack-layer230.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+levelpack-layer2
+  rotate: false
+  xy: 1, 1
+  size: 388, 598
+  orig: 388, 598
+  offset: 0, 0
+  index: 59
+levelpack-layer2
+  rotate: false
+  xy: 391, 1
+  size: 388, 598
+  orig: 388, 598
+  offset: 0, 0
+  index: 60
+
+levelpack-layer231.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+levelpack-layer2
+  rotate: false
+  xy: 1, 1
+  size: 388, 598
+  orig: 388, 598
+  offset: 0, 0
+  index: 61
+levelpack-layer2
+  rotate: false
+  xy: 391, 1
+  size: 388, 598
+  orig: 388, 598
+  offset: 0, 0
+  index: 62
+
+levelpack-layer232.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+levelpack-layer2
+  rotate: false
+  xy: 1, 1
+  size: 388, 598
+  orig: 388, 598
+  offset: 0, 0
+  index: 63
+levelpack-layer2
+  rotate: false
+  xy: 391, 1
+  size: 388, 598
+  orig: 388, 598
+  offset: 0, 0
+  index: 64
+
+levelpack-layer233.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+levelpack-layer2
+  rotate: false
+  xy: 1, 1
+  size: 388, 598
+  orig: 388, 598
+  offset: 0, 0
+  index: 65
+levelpack-layer2
+  rotate: false
+  xy: 391, 1
+  size: 388, 598
+  orig: 388, 598
+  offset: 0, 0
+  index: 66
+
+levelpack-layer234.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+levelpack-layer2
+  rotate: false
+  xy: 1, 1
+  size: 388, 598
+  orig: 388, 598
+  offset: 0, 0
+  index: 67
+levelpack-layer2
+  rotate: false
+  xy: 391, 1
+  size: 388, 598
+  orig: 388, 598
+  offset: 0, 0
+  index: 68
+
+levelpack-layer235.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+levelpack-layer2
+  rotate: false
+  xy: 1, 1
+  size: 388, 598
+  orig: 388, 598
+  offset: 0, 0
+  index: 69
+levelpack-layer2
+  rotate: false
+  xy: 391, 1
+  size: 388, 598
+  orig: 388, 598
+  offset: 0, 0
+  index: 70
+
+levelpack-layer236.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+levelpack-layer2
+  rotate: false
+  xy: 1, 1
+  size: 388, 598
+  orig: 388, 598
+  offset: 0, 0
+  index: 71
+levelpack-layer2
+  rotate: false
+  xy: 391, 1
+  size: 388, 598
+  orig: 388, 598
+  offset: 0, 0
+  index: 72
+
+levelpack-layer237.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+levelpack-layer2
+  rotate: false
+  xy: 1, 1
+  size: 388, 598
+  orig: 388, 598
+  offset: 0, 0
+  index: 73
+levelpack-layer2
+  rotate: false
+  xy: 391, 1
+  size: 388, 598
+  orig: 388, 598
+  offset: 0, 0
+  index: 74
+
+levelpack-layer238.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+levelpack-layer2
+  rotate: false
+  xy: 1, 1
+  size: 388, 598
+  orig: 388, 598
+  offset: 0, 0
+  index: 75
+levelpack-layer2
+  rotate: false
+  xy: 391, 1
+  size: 388, 598
+  orig: 388, 598
+  offset: 0, 0
+  index: 76
+
+levelpack-layer239.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+levelpack-layer2
+  rotate: false
+  xy: 1, 1
+  size: 388, 598
+  orig: 388, 598
+  offset: 0, 0
+  index: 77
+levelpack-layer2
+  rotate: false
+  xy: 391, 1
+  size: 388, 598
+  orig: 388, 598
+  offset: 0, 0
+  index: 78
+
+levelpack-layer240.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+levelpack-layer2
+  rotate: false
+  xy: 1, 1
+  size: 388, 598
+  orig: 388, 598
+  offset: 0, 0
+  index: 79
+levelpack-layer2
+  rotate: false
+  xy: 391, 1
+  size: 388, 598
+  orig: 388, 598
+  offset: 0, 0
+  index: 80
+
+levelpack-layer241.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+levelpack-layer2
+  rotate: false
+  xy: 1, 1
+  size: 388, 598
+  orig: 388, 598
+  offset: 0, 0
+  index: 81
+levelpack-layer2
+  rotate: false
+  xy: 391, 1
+  size: 388, 598
+  orig: 388, 598
+  offset: 0, 0
+  index: 82
+
+levelpack-layer242.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+levelpack-layer2
+  rotate: false
+  xy: 1, 1
+  size: 388, 598
+  orig: 388, 598
+  offset: 0, 0
+  index: 83
+levelpack-layer2
+  rotate: false
+  xy: 391, 1
+  size: 388, 598
+  orig: 388, 598
+  offset: 0, 0
+  index: 84
+
+levelpack-layer243.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+levelpack-layer2
+  rotate: false
+  xy: 1, 1
+  size: 388, 598
+  orig: 388, 598
+  offset: 0, 0
+  index: 85
+levelpack-layer2
+  rotate: false
+  xy: 391, 1
+  size: 388, 598
+  orig: 388, 598
+  offset: 0, 0
+  index: 86
+
+levelpack-layer244.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+levelpack-layer2
+  rotate: false
+  xy: 1, 1
+  size: 388, 598
+  orig: 388, 598
+  offset: 0, 0
+  index: 87
+levelpack-layer2
+  rotate: false
+  xy: 391, 1
+  size: 388, 598
+  orig: 388, 598
+  offset: 0, 0
+  index: 88
+
+levelpack-layer245.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+levelpack-layer2
+  rotate: false
+  xy: 1, 1
+  size: 388, 598
+  orig: 388, 598
+  offset: 0, 0
+  index: 89

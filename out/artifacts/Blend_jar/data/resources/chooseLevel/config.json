@@ -1,0 +1,24 @@
+{
+	"files": {
+		"textures": [
+			"circle.png",
+			"outlined-circle.png",
+			"big-circle.png"
+		],
+		"sounds": [
+
+		],
+		"music": [
+
+		],
+		"atlases": [
+			
+		],
+		"fonts": [
+
+		],
+		"shaders": [
+			
+		]
+	}
+}

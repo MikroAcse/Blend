@@ -1,0 +1,1090 @@
+
+levelpack-layer3.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+levelpack-layer3
+  rotate: false
+  xy: 1, 1
+  size: 458, 595
+  orig: 458, 595
+  offset: 0, 0
+  index: 1
+levelpack-layer3
+  rotate: false
+  xy: 1, 1
+  size: 458, 595
+  orig: 458, 595
+  offset: 0, 0
+  index: 115
+levelpack-layer3
+  rotate: false
+  xy: 461, 1
+  size: 458, 595
+  orig: 458, 595
+  offset: 0, 0
+  index: 2
+
+levelpack-layer32.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+levelpack-layer3
+  rotate: false
+  xy: 1, 1
+  size: 458, 595
+  orig: 458, 595
+  offset: 0, 0
+  index: 3
+levelpack-layer3
+  rotate: false
+  xy: 461, 1
+  size: 458, 595
+  orig: 458, 595
+  offset: 0, 0
+  index: 4
+
+levelpack-layer33.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+levelpack-layer3
+  rotate: false
+  xy: 1, 1
+  size: 458, 595
+  orig: 458, 595
+  offset: 0, 0
+  index: 5
+levelpack-layer3
+  rotate: false
+  xy: 461, 1
+  size: 458, 595
+  orig: 458, 595
+  offset: 0, 0
+  index: 6
+
+levelpack-layer34.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+levelpack-layer3
+  rotate: false
+  xy: 1, 1
+  size: 458, 595
+  orig: 458, 595
+  offset: 0, 0
+  index: 7
+levelpack-layer3
+  rotate: false
+  xy: 461, 1
+  size: 458, 595
+  orig: 458, 595
+  offset: 0, 0
+  index: 8
+
+levelpack-layer35.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+levelpack-layer3
+  rotate: false
+  xy: 1, 1
+  size: 458, 595
+  orig: 458, 595
+  offset: 0, 0
+  index: 9
+levelpack-layer3
+  rotate: false
+  xy: 461, 1
+  size: 458, 595
+  orig: 458, 595
+  offset: 0, 0
+  index: 10
+
+levelpack-layer36.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+levelpack-layer3
+  rotate: false
+  xy: 1, 1
+  size: 458, 595
+  orig: 458, 595
+  offset: 0, 0
+  index: 11
+levelpack-layer3
+  rotate: false
+  xy: 461, 1
+  size: 458, 595
+  orig: 458, 595
+  offset: 0, 0
+  index: 12
+
+levelpack-layer37.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+levelpack-layer3
+  rotate: false
+  xy: 1, 1
+  size: 458, 595
+  orig: 458, 595
+  offset: 0, 0
+  index: 13
+levelpack-layer3
+  rotate: false
+  xy: 461, 1
+  size: 458, 595
+  orig: 458, 595
+  offset: 0, 0
+  index: 14
+
+levelpack-layer38.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+levelpack-layer3
+  rotate: false
+  xy: 1, 1
+  size: 458, 595
+  orig: 458, 595
+  offset: 0, 0
+  index: 15
+levelpack-layer3
+  rotate: false
+  xy: 461, 1
+  size: 458, 595
+  orig: 458, 595
+  offset: 0, 0
+  index: 16
+
+levelpack-layer39.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+levelpack-layer3
+  rotate: false
+  xy: 1, 1
+  size: 458, 595
+  orig: 458, 595
+  offset: 0, 0
+  index: 17
+levelpack-layer3
+  rotate: false
+  xy: 461, 1
+  size: 458, 595
+  orig: 458, 595
+  offset: 0, 0
+  index: 18
+
+levelpack-layer310.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+levelpack-layer3
+  rotate: false
+  xy: 1, 1
+  size: 458, 595
+  orig: 458, 595
+  offset: 0, 0
+  index: 19
+levelpack-layer3
+  rotate: false
+  xy: 461, 1
+  size: 458, 595
+  orig: 458, 595
+  offset: 0, 0
+  index: 20
+
+levelpack-layer311.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+levelpack-layer3
+  rotate: false
+  xy: 1, 1
+  size: 458, 595
+  orig: 458, 595
+  offset: 0, 0
+  index: 21
+levelpack-layer3
+  rotate: false
+  xy: 461, 1
+  size: 458, 595
+  orig: 458, 595
+  offset: 0, 0
+  index: 22
+
+levelpack-layer312.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+levelpack-layer3
+  rotate: false
+  xy: 1, 1
+  size: 458, 595
+  orig: 458, 595
+  offset: 0, 0
+  index: 23
+levelpack-layer3
+  rotate: false
+  xy: 461, 1
+  size: 458, 595
+  orig: 458, 595
+  offset: 0, 0
+  index: 24
+
+levelpack-layer313.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+levelpack-layer3
+  rotate: false
+  xy: 1, 1
+  size: 458, 595
+  orig: 458, 595
+  offset: 0, 0
+  index: 25
+levelpack-layer3
+  rotate: false
+  xy: 461, 1
+  size: 458, 595
+  orig: 458, 595
+  offset: 0, 0
+  index: 26
+
+levelpack-layer314.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+levelpack-layer3
+  rotate: false
+  xy: 1, 1
+  size: 458, 595
+  orig: 458, 595
+  offset: 0, 0
+  index: 27
+levelpack-layer3
+  rotate: false
+  xy: 461, 1
+  size: 458, 595
+  orig: 458, 595
+  offset: 0, 0
+  index: 28
+
+levelpack-layer315.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+levelpack-layer3
+  rotate: false
+  xy: 1, 1
+  size: 458, 595
+  orig: 458, 595
+  offset: 0, 0
+  index: 29
+levelpack-layer3
+  rotate: false
+  xy: 461, 1
+  size: 458, 595
+  orig: 458, 595
+  offset: 0, 0
+  index: 30
+
+levelpack-layer316.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+levelpack-layer3
+  rotate: false
+  xy: 1, 1
+  size: 458, 595
+  orig: 458, 595
+  offset: 0, 0
+  index: 31
+levelpack-layer3
+  rotate: false
+  xy: 461, 1
+  size: 458, 595
+  orig: 458, 595
+  offset: 0, 0
+  index: 32
+
+levelpack-layer317.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+levelpack-layer3
+  rotate: false
+  xy: 1, 1
+  size: 458, 595
+  orig: 458, 595
+  offset: 0, 0
+  index: 33
+levelpack-layer3
+  rotate: false
+  xy: 461, 1
+  size: 458, 595
+  orig: 458, 595
+  offset: 0, 0
+  index: 34
+
+levelpack-layer318.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+levelpack-layer3
+  rotate: false
+  xy: 1, 1
+  size: 458, 595
+  orig: 458, 595
+  offset: 0, 0
+  index: 35
+levelpack-layer3
+  rotate: false
+  xy: 461, 1
+  size: 458, 595
+  orig: 458, 595
+  offset: 0, 0
+  index: 36
+
+levelpack-layer319.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+levelpack-layer3
+  rotate: false
+  xy: 1, 1
+  size: 458, 595
+  orig: 458, 595
+  offset: 0, 0
+  index: 37
+levelpack-layer3
+  rotate: false
+  xy: 461, 1
+  size: 458, 595
+  orig: 458, 595
+  offset: 0, 0
+  index: 38
+
+levelpack-layer320.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+levelpack-layer3
+  rotate: false
+  xy: 1, 1
+  size: 458, 595
+  orig: 458, 595
+  offset: 0, 0
+  index: 39
+levelpack-layer3
+  rotate: false
+  xy: 461, 1
+  size: 458, 595
+  orig: 458, 595
+  offset: 0, 0
+  index: 40
+
+levelpack-layer321.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+levelpack-layer3
+  rotate: false
+  xy: 1, 1
+  size: 458, 595
+  orig: 458, 595
+  offset: 0, 0
+  index: 41
+levelpack-layer3
+  rotate: false
+  xy: 461, 1
+  size: 458, 595
+  orig: 458, 595
+  offset: 0, 0
+  index: 42
+
+levelpack-layer322.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+levelpack-layer3
+  rotate: false
+  xy: 1, 1
+  size: 458, 595
+  orig: 458, 595
+  offset: 0, 0
+  index: 43
+levelpack-layer3
+  rotate: false
+  xy: 461, 1
+  size: 458, 595
+  orig: 458, 595
+  offset: 0, 0
+  index: 44
+
+levelpack-layer323.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+levelpack-layer3
+  rotate: false
+  xy: 1, 1
+  size: 458, 595
+  orig: 458, 595
+  offset: 0, 0
+  index: 45
+levelpack-layer3
+  rotate: false
+  xy: 461, 1
+  size: 458, 595
+  orig: 458, 595
+  offset: 0, 0
+  index: 46
+
+levelpack-layer324.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+levelpack-layer3
+  rotate: false
+  xy: 1, 1
+  size: 458, 595
+  orig: 458, 595
+  offset: 0, 0
+  index: 47
+levelpack-layer3
+  rotate: false
+  xy: 461, 1
+  size: 458, 595
+  orig: 458, 595
+  offset: 0, 0
+  index: 48
+
+levelpack-layer325.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+levelpack-layer3
+  rotate: false
+  xy: 1, 1
+  size: 458, 595
+  orig: 458, 595
+  offset: 0, 0
+  index: 49
+levelpack-layer3
+  rotate: false
+  xy: 461, 1
+  size: 458, 595
+  orig: 458, 595
+  offset: 0, 0
+  index: 50
+
+levelpack-layer326.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+levelpack-layer3
+  rotate: false
+  xy: 1, 1
+  size: 458, 595
+  orig: 458, 595
+  offset: 0, 0
+  index: 51
+levelpack-layer3
+  rotate: false
+  xy: 461, 1
+  size: 458, 595
+  orig: 458, 595
+  offset: 0, 0
+  index: 52
+
+levelpack-layer327.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+levelpack-layer3
+  rotate: false
+  xy: 1, 1
+  size: 458, 595
+  orig: 458, 595
+  offset: 0, 0
+  index: 53
+levelpack-layer3
+  rotate: false
+  xy: 461, 1
+  size: 458, 595
+  orig: 458, 595
+  offset: 0, 0
+  index: 54
+
+levelpack-layer328.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+levelpack-layer3
+  rotate: false
+  xy: 1, 1
+  size: 458, 595
+  orig: 458, 595
+  offset: 0, 0
+  index: 55
+levelpack-layer3
+  rotate: false
+  xy: 461, 1
+  size: 458, 595
+  orig: 458, 595
+  offset: 0, 0
+  index: 56
+
+levelpack-layer329.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+levelpack-layer3
+  rotate: false
+  xy: 1, 1
+  size: 458, 595
+  orig: 458, 595
+  offset: 0, 0
+  index: 57
+levelpack-layer3
+  rotate: false
+  xy: 461, 1
+  size: 458, 595
+  orig: 458, 595
+  offset: 0, 0
+  index: 58
+
+levelpack-layer330.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+levelpack-layer3
+  rotate: false
+  xy: 1, 1
+  size: 458, 595
+  orig: 458, 595
+  offset: 0, 0
+  index: 59
+levelpack-layer3
+  rotate: false
+  xy: 461, 1
+  size: 458, 595
+  orig: 458, 595
+  offset: 0, 0
+  index: 60
+
+levelpack-layer331.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+levelpack-layer3
+  rotate: false
+  xy: 1, 1
+  size: 458, 595
+  orig: 458, 595
+  offset: 0, 0
+  index: 61
+levelpack-layer3
+  rotate: false
+  xy: 461, 1
+  size: 458, 595
+  orig: 458, 595
+  offset: 0, 0
+  index: 62
+
+levelpack-layer332.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+levelpack-layer3
+  rotate: false
+  xy: 1, 1
+  size: 458, 595
+  orig: 458, 595
+  offset: 0, 0
+  index: 63
+levelpack-layer3
+  rotate: false
+  xy: 461, 1
+  size: 458, 595
+  orig: 458, 595
+  offset: 0, 0
+  index: 64
+
+levelpack-layer333.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+levelpack-layer3
+  rotate: false
+  xy: 1, 1
+  size: 458, 595
+  orig: 458, 595
+  offset: 0, 0
+  index: 65
+levelpack-layer3
+  rotate: false
+  xy: 461, 1
+  size: 458, 595
+  orig: 458, 595
+  offset: 0, 0
+  index: 66
+
+levelpack-layer334.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+levelpack-layer3
+  rotate: false
+  xy: 1, 1
+  size: 458, 595
+  orig: 458, 595
+  offset: 0, 0
+  index: 67
+levelpack-layer3
+  rotate: false
+  xy: 461, 1
+  size: 458, 595
+  orig: 458, 595
+  offset: 0, 0
+  index: 68
+
+levelpack-layer335.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+levelpack-layer3
+  rotate: false
+  xy: 1, 1
+  size: 458, 595
+  orig: 458, 595
+  offset: 0, 0
+  index: 69
+levelpack-layer3
+  rotate: false
+  xy: 461, 1
+  size: 458, 595
+  orig: 458, 595
+  offset: 0, 0
+  index: 70
+
+levelpack-layer336.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+levelpack-layer3
+  rotate: false
+  xy: 1, 1
+  size: 458, 595
+  orig: 458, 595
+  offset: 0, 0
+  index: 71
+levelpack-layer3
+  rotate: false
+  xy: 461, 1
+  size: 458, 595
+  orig: 458, 595
+  offset: 0, 0
+  index: 72
+
+levelpack-layer337.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+levelpack-layer3
+  rotate: false
+  xy: 1, 1
+  size: 458, 595
+  orig: 458, 595
+  offset: 0, 0
+  index: 73
+levelpack-layer3
+  rotate: false
+  xy: 461, 1
+  size: 458, 595
+  orig: 458, 595
+  offset: 0, 0
+  index: 74
+
+levelpack-layer338.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+levelpack-layer3
+  rotate: false
+  xy: 1, 1
+  size: 458, 595
+  orig: 458, 595
+  offset: 0, 0
+  index: 75
+levelpack-layer3
+  rotate: false
+  xy: 461, 1
+  size: 458, 595
+  orig: 458, 595
+  offset: 0, 0
+  index: 76
+
+levelpack-layer339.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+levelpack-layer3
+  rotate: false
+  xy: 1, 1
+  size: 458, 595
+  orig: 458, 595
+  offset: 0, 0
+  index: 77
+levelpack-layer3
+  rotate: false
+  xy: 461, 1
+  size: 458, 595
+  orig: 458, 595
+  offset: 0, 0
+  index: 78
+
+levelpack-layer340.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+levelpack-layer3
+  rotate: false
+  xy: 1, 1
+  size: 458, 595
+  orig: 458, 595
+  offset: 0, 0
+  index: 79
+levelpack-layer3
+  rotate: false
+  xy: 461, 1
+  size: 458, 595
+  orig: 458, 595
+  offset: 0, 0
+  index: 80
+
+levelpack-layer341.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+levelpack-layer3
+  rotate: false
+  xy: 1, 1
+  size: 458, 595
+  orig: 458, 595
+  offset: 0, 0
+  index: 81
+levelpack-layer3
+  rotate: false
+  xy: 461, 1
+  size: 458, 595
+  orig: 458, 595
+  offset: 0, 0
+  index: 82
+
+levelpack-layer342.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+levelpack-layer3
+  rotate: false
+  xy: 1, 1
+  size: 458, 595
+  orig: 458, 595
+  offset: 0, 0
+  index: 83
+levelpack-layer3
+  rotate: false
+  xy: 461, 1
+  size: 458, 595
+  orig: 458, 595
+  offset: 0, 0
+  index: 84
+
+levelpack-layer343.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+levelpack-layer3
+  rotate: false
+  xy: 1, 1
+  size: 458, 595
+  orig: 458, 595
+  offset: 0, 0
+  index: 85
+levelpack-layer3
+  rotate: false
+  xy: 461, 1
+  size: 458, 595
+  orig: 458, 595
+  offset: 0, 0
+  index: 86
+
+levelpack-layer344.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+levelpack-layer3
+  rotate: false
+  xy: 1, 1
+  size: 458, 595
+  orig: 458, 595
+  offset: 0, 0
+  index: 87
+levelpack-layer3
+  rotate: false
+  xy: 461, 1
+  size: 458, 595
+  orig: 458, 595
+  offset: 0, 0
+  index: 88
+
+levelpack-layer345.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+levelpack-layer3
+  rotate: false
+  xy: 1, 1
+  size: 458, 595
+  orig: 458, 595
+  offset: 0, 0
+  index: 89
+levelpack-layer3
+  rotate: false
+  xy: 461, 1
+  size: 458, 595
+  orig: 458, 595
+  offset: 0, 0
+  index: 90
+
+levelpack-layer346.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+levelpack-layer3
+  rotate: false
+  xy: 1, 1
+  size: 458, 595
+  orig: 458, 595
+  offset: 0, 0
+  index: 91
+levelpack-layer3
+  rotate: false
+  xy: 461, 1
+  size: 458, 595
+  orig: 458, 595
+  offset: 0, 0
+  index: 92
+
+levelpack-layer347.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+levelpack-layer3
+  rotate: false
+  xy: 1, 1
+  size: 458, 595
+  orig: 458, 595
+  offset: 0, 0
+  index: 93
+levelpack-layer3
+  rotate: false
+  xy: 461, 1
+  size: 458, 595
+  orig: 458, 595
+  offset: 0, 0
+  index: 94
+
+levelpack-layer348.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+levelpack-layer3
+  rotate: false
+  xy: 1, 1
+  size: 458, 595
+  orig: 458, 595
+  offset: 0, 0
+  index: 95
+levelpack-layer3
+  rotate: false
+  xy: 461, 1
+  size: 458, 595
+  orig: 458, 595
+  offset: 0, 0
+  index: 96
+
+levelpack-layer349.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+levelpack-layer3
+  rotate: false
+  xy: 1, 1
+  size: 458, 595
+  orig: 458, 595
+  offset: 0, 0
+  index: 97
+levelpack-layer3
+  rotate: false
+  xy: 461, 1
+  size: 458, 595
+  orig: 458, 595
+  offset: 0, 0
+  index: 98
+
+levelpack-layer350.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+levelpack-layer3
+  rotate: false
+  xy: 1, 1
+  size: 458, 595
+  orig: 458, 595
+  offset: 0, 0
+  index: 99
+levelpack-layer3
+  rotate: false
+  xy: 461, 1
+  size: 458, 595
+  orig: 458, 595
+  offset: 0, 0
+  index: 100
+
+levelpack-layer351.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+levelpack-layer3
+  rotate: false
+  xy: 1, 1
+  size: 458, 595
+  orig: 458, 595
+  offset: 0, 0
+  index: 101
+levelpack-layer3
+  rotate: false
+  xy: 461, 1
+  size: 458, 595
+  orig: 458, 595
+  offset: 0, 0
+  index: 102
+
+levelpack-layer352.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+levelpack-layer3
+  rotate: false
+  xy: 1, 1
+  size: 458, 595
+  orig: 458, 595
+  offset: 0, 0
+  index: 103
+levelpack-layer3
+  rotate: false
+  xy: 461, 1
+  size: 458, 595
+  orig: 458, 595
+  offset: 0, 0
+  index: 104
+
+levelpack-layer353.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+levelpack-layer3
+  rotate: false
+  xy: 1, 1
+  size: 458, 595
+  orig: 458, 595
+  offset: 0, 0
+  index: 105
+levelpack-layer3
+  rotate: false
+  xy: 461, 1
+  size: 458, 595
+  orig: 458, 595
+  offset: 0, 0
+  index: 106
+
+levelpack-layer354.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+levelpack-layer3
+  rotate: false
+  xy: 1, 1
+  size: 458, 595
+  orig: 458, 595
+  offset: 0, 0
+  index: 107
+levelpack-layer3
+  rotate: false
+  xy: 461, 1
+  size: 458, 595
+  orig: 458, 595
+  offset: 0, 0
+  index: 108
+
+levelpack-layer355.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+levelpack-layer3
+  rotate: false
+  xy: 1, 1
+  size: 458, 595
+  orig: 458, 595
+  offset: 0, 0
+  index: 109
+levelpack-layer3
+  rotate: false
+  xy: 461, 1
+  size: 458, 595
+  orig: 458, 595
+  offset: 0, 0
+  index: 110
+
+levelpack-layer356.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+levelpack-layer3
+  rotate: false
+  xy: 1, 1
+  size: 458, 595
+  orig: 458, 595
+  offset: 0, 0
+  index: 111
+levelpack-layer3
+  rotate: false
+  xy: 461, 1
+  size: 458, 595
+  orig: 458, 595
+  offset: 0, 0
+  index: 112
+
+levelpack-layer357.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+levelpack-layer3
+  rotate: false
+  xy: 1, 1
+  size: 458, 595
+  orig: 458, 595
+  offset: 0, 0
+  index: 113
+levelpack-layer3
+  rotate: false
+  xy: 461, 1
+  size: 458, 595
+  orig: 458, 595
+  offset: 0, 0
+  index: 114

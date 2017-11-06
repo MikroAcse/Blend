@@ -1,0 +1,543 @@
+
+levelpack-layer4.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+levelpack-layer4
+  rotate: false
+  xy: 1, 635
+  size: 398, 315
+  orig: 398, 315
+  offset: 0, 0
+  index: 1
+levelpack-layer4
+  rotate: false
+  xy: 1, 635
+  size: 398, 315
+  orig: 398, 315
+  offset: 0, 0
+  index: 69
+levelpack-layer4
+  rotate: false
+  xy: 1, 318
+  size: 398, 315
+  orig: 398, 315
+  offset: 0, 0
+  index: 2
+levelpack-layer4
+  rotate: false
+  xy: 401, 635
+  size: 398, 315
+  orig: 398, 315
+  offset: 0, 0
+  index: 3
+levelpack-layer4
+  rotate: false
+  xy: 1, 1
+  size: 398, 315
+  orig: 398, 315
+  offset: 0, 0
+  index: 4
+levelpack-layer4
+  rotate: false
+  xy: 401, 318
+  size: 398, 315
+  orig: 398, 315
+  offset: 0, 0
+  index: 5
+levelpack-layer4
+  rotate: false
+  xy: 401, 1
+  size: 398, 315
+  orig: 398, 315
+  offset: 0, 0
+  index: 6
+
+levelpack-layer42.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+levelpack-layer4
+  rotate: false
+  xy: 1, 635
+  size: 398, 315
+  orig: 398, 315
+  offset: 0, 0
+  index: 7
+levelpack-layer4
+  rotate: false
+  xy: 1, 318
+  size: 398, 315
+  orig: 398, 315
+  offset: 0, 0
+  index: 8
+levelpack-layer4
+  rotate: false
+  xy: 401, 635
+  size: 398, 315
+  orig: 398, 315
+  offset: 0, 0
+  index: 9
+levelpack-layer4
+  rotate: false
+  xy: 1, 1
+  size: 398, 315
+  orig: 398, 315
+  offset: 0, 0
+  index: 10
+levelpack-layer4
+  rotate: false
+  xy: 401, 318
+  size: 398, 315
+  orig: 398, 315
+  offset: 0, 0
+  index: 11
+levelpack-layer4
+  rotate: false
+  xy: 401, 1
+  size: 398, 315
+  orig: 398, 315
+  offset: 0, 0
+  index: 12
+
+levelpack-layer43.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+levelpack-layer4
+  rotate: false
+  xy: 1, 635
+  size: 398, 315
+  orig: 398, 315
+  offset: 0, 0
+  index: 13
+levelpack-layer4
+  rotate: false
+  xy: 1, 318
+  size: 398, 315
+  orig: 398, 315
+  offset: 0, 0
+  index: 14
+levelpack-layer4
+  rotate: false
+  xy: 401, 635
+  size: 398, 315
+  orig: 398, 315
+  offset: 0, 0
+  index: 15
+levelpack-layer4
+  rotate: false
+  xy: 1, 1
+  size: 398, 315
+  orig: 398, 315
+  offset: 0, 0
+  index: 16
+levelpack-layer4
+  rotate: false
+  xy: 401, 318
+  size: 398, 315
+  orig: 398, 315
+  offset: 0, 0
+  index: 17
+levelpack-layer4
+  rotate: false
+  xy: 401, 1
+  size: 398, 315
+  orig: 398, 315
+  offset: 0, 0
+  index: 18
+
+levelpack-layer44.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+levelpack-layer4
+  rotate: false
+  xy: 1, 635
+  size: 398, 315
+  orig: 398, 315
+  offset: 0, 0
+  index: 19
+levelpack-layer4
+  rotate: false
+  xy: 1, 318
+  size: 398, 315
+  orig: 398, 315
+  offset: 0, 0
+  index: 20
+levelpack-layer4
+  rotate: false
+  xy: 401, 635
+  size: 398, 315
+  orig: 398, 315
+  offset: 0, 0
+  index: 21
+levelpack-layer4
+  rotate: false
+  xy: 1, 1
+  size: 398, 315
+  orig: 398, 315
+  offset: 0, 0
+  index: 22
+levelpack-layer4
+  rotate: false
+  xy: 401, 318
+  size: 398, 315
+  orig: 398, 315
+  offset: 0, 0
+  index: 23
+levelpack-layer4
+  rotate: false
+  xy: 401, 1
+  size: 398, 315
+  orig: 398, 315
+  offset: 0, 0
+  index: 24
+
+levelpack-layer45.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+levelpack-layer4
+  rotate: false
+  xy: 1, 635
+  size: 398, 315
+  orig: 398, 315
+  offset: 0, 0
+  index: 25
+levelpack-layer4
+  rotate: false
+  xy: 1, 318
+  size: 398, 315
+  orig: 398, 315
+  offset: 0, 0
+  index: 26
+levelpack-layer4
+  rotate: false
+  xy: 401, 635
+  size: 398, 315
+  orig: 398, 315
+  offset: 0, 0
+  index: 27
+levelpack-layer4
+  rotate: false
+  xy: 1, 1
+  size: 398, 315
+  orig: 398, 315
+  offset: 0, 0
+  index: 28
+levelpack-layer4
+  rotate: false
+  xy: 401, 318
+  size: 398, 315
+  orig: 398, 315
+  offset: 0, 0
+  index: 29
+levelpack-layer4
+  rotate: false
+  xy: 401, 1
+  size: 398, 315
+  orig: 398, 315
+  offset: 0, 0
+  index: 30
+
+levelpack-layer46.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+levelpack-layer4
+  rotate: false
+  xy: 1, 635
+  size: 398, 315
+  orig: 398, 315
+  offset: 0, 0
+  index: 31
+levelpack-layer4
+  rotate: false
+  xy: 1, 318
+  size: 398, 315
+  orig: 398, 315
+  offset: 0, 0
+  index: 32
+levelpack-layer4
+  rotate: false
+  xy: 401, 635
+  size: 398, 315
+  orig: 398, 315
+  offset: 0, 0
+  index: 33
+levelpack-layer4
+  rotate: false
+  xy: 1, 1
+  size: 398, 315
+  orig: 398, 315
+  offset: 0, 0
+  index: 34
+levelpack-layer4
+  rotate: false
+  xy: 401, 318
+  size: 398, 315
+  orig: 398, 315
+  offset: 0, 0
+  index: 35
+levelpack-layer4
+  rotate: false
+  xy: 401, 1
+  size: 398, 315
+  orig: 398, 315
+  offset: 0, 0
+  index: 36
+
+levelpack-layer47.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+levelpack-layer4
+  rotate: false
+  xy: 1, 635
+  size: 398, 315
+  orig: 398, 315
+  offset: 0, 0
+  index: 37
+levelpack-layer4
+  rotate: false
+  xy: 1, 318
+  size: 398, 315
+  orig: 398, 315
+  offset: 0, 0
+  index: 38
+levelpack-layer4
+  rotate: false
+  xy: 401, 635
+  size: 398, 315
+  orig: 398, 315
+  offset: 0, 0
+  index: 39
+levelpack-layer4
+  rotate: false
+  xy: 1, 1
+  size: 398, 315
+  orig: 398, 315
+  offset: 0, 0
+  index: 40
+levelpack-layer4
+  rotate: false
+  xy: 401, 318
+  size: 398, 315
+  orig: 398, 315
+  offset: 0, 0
+  index: 41
+levelpack-layer4
+  rotate: false
+  xy: 401, 1
+  size: 398, 315
+  orig: 398, 315
+  offset: 0, 0
+  index: 42
+
+levelpack-layer48.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+levelpack-layer4
+  rotate: false
+  xy: 1, 635
+  size: 398, 315
+  orig: 398, 315
+  offset: 0, 0
+  index: 43
+levelpack-layer4
+  rotate: false
+  xy: 1, 318
+  size: 398, 315
+  orig: 398, 315
+  offset: 0, 0
+  index: 44
+levelpack-layer4
+  rotate: false
+  xy: 401, 635
+  size: 398, 315
+  orig: 398, 315
+  offset: 0, 0
+  index: 45
+levelpack-layer4
+  rotate: false
+  xy: 1, 1
+  size: 398, 315
+  orig: 398, 315
+  offset: 0, 0
+  index: 46
+levelpack-layer4
+  rotate: false
+  xy: 401, 318
+  size: 398, 315
+  orig: 398, 315
+  offset: 0, 0
+  index: 47
+levelpack-layer4
+  rotate: false
+  xy: 401, 1
+  size: 398, 315
+  orig: 398, 315
+  offset: 0, 0
+  index: 48
+
+levelpack-layer49.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+levelpack-layer4
+  rotate: false
+  xy: 1, 635
+  size: 398, 315
+  orig: 398, 315
+  offset: 0, 0
+  index: 49
+levelpack-layer4
+  rotate: false
+  xy: 1, 318
+  size: 398, 315
+  orig: 398, 315
+  offset: 0, 0
+  index: 50
+levelpack-layer4
+  rotate: false
+  xy: 401, 635
+  size: 398, 315
+  orig: 398, 315
+  offset: 0, 0
+  index: 51
+levelpack-layer4
+  rotate: false
+  xy: 1, 1
+  size: 398, 315
+  orig: 398, 315
+  offset: 0, 0
+  index: 52
+levelpack-layer4
+  rotate: false
+  xy: 401, 318
+  size: 398, 315
+  orig: 398, 315
+  offset: 0, 0
+  index: 53
+levelpack-layer4
+  rotate: false
+  xy: 401, 1
+  size: 398, 315
+  orig: 398, 315
+  offset: 0, 0
+  index: 54
+
+levelpack-layer410.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+levelpack-layer4
+  rotate: false
+  xy: 1, 635
+  size: 398, 315
+  orig: 398, 315
+  offset: 0, 0
+  index: 55
+levelpack-layer4
+  rotate: false
+  xy: 1, 318
+  size: 398, 315
+  orig: 398, 315
+  offset: 0, 0
+  index: 56
+levelpack-layer4
+  rotate: false
+  xy: 401, 635
+  size: 398, 315
+  orig: 398, 315
+  offset: 0, 0
+  index: 57
+levelpack-layer4
+  rotate: false
+  xy: 1, 1
+  size: 398, 315
+  orig: 398, 315
+  offset: 0, 0
+  index: 58
+levelpack-layer4
+  rotate: false
+  xy: 401, 318
+  size: 398, 315
+  orig: 398, 315
+  offset: 0, 0
+  index: 59
+levelpack-layer4
+  rotate: false
+  xy: 401, 1
+  size: 398, 315
+  orig: 398, 315
+  offset: 0, 0
+  index: 60
+
+levelpack-layer411.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+levelpack-layer4
+  rotate: false
+  xy: 1, 635
+  size: 398, 315
+  orig: 398, 315
+  offset: 0, 0
+  index: 61
+levelpack-layer4
+  rotate: false
+  xy: 1, 318
+  size: 398, 315
+  orig: 398, 315
+  offset: 0, 0
+  index: 62
+levelpack-layer4
+  rotate: false
+  xy: 401, 635
+  size: 398, 315
+  orig: 398, 315
+  offset: 0, 0
+  index: 63
+levelpack-layer4
+  rotate: false
+  xy: 1, 1
+  size: 398, 315
+  orig: 398, 315
+  offset: 0, 0
+  index: 64
+levelpack-layer4
+  rotate: false
+  xy: 401, 318
+  size: 398, 315
+  orig: 398, 315
+  offset: 0, 0
+  index: 65
+levelpack-layer4
+  rotate: false
+  xy: 401, 1
+  size: 398, 315
+  orig: 398, 315
+  offset: 0, 0
+  index: 66
+
+levelpack-layer412.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+levelpack-layer4
+  rotate: false
+  xy: 1, 1
+  size: 398, 315
+  orig: 398, 315
+  offset: 0, 0
+  index: 67
+levelpack-layer4
+  rotate: false
+  xy: 401, 1
+  size: 398, 315
+  orig: 398, 315
+  offset: 0, 0
+  index: 68

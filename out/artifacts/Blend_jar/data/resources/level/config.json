@@ -1,0 +1,33 @@
+{
+	"files": {
+		"textures": [
+			"background.png",
+			"blocker.png",
+			"cell.png",
+			"cube-outline.png",
+			"final-point.png",
+			"path-corner.png",
+			"path-line.png",
+			"path-start.png",
+			"pause-button.png",
+			"matching-block.png",
+			"big-circle.png",
+			"paused-background.png"
+		],
+		"sounds": [
+
+		],
+		"music": [
+
+		],
+		"atlases": [
+			
+		],
+		"fonts": [
+
+		],
+		"shaders": [
+			
+		]
+	}
+}

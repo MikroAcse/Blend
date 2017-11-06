@@ -1,0 +1,23 @@
+{
+	"files": {
+		"textures": [
+			"background.png"
+		],
+		"sounds": [
+
+		],
+		"music": [
+
+		],
+		"atlases": [
+			"levelpack.pack",
+			"showhide-levelpack.pack"
+		],
+		"fonts": [
+
+		],
+		"shaders": [
+			
+		]
+	}
+}
